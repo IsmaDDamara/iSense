@@ -1,2 +1,14 @@
-#Pengertian
-iSense adalah sebuah project untuk mengembangkan sebuah perangkat yang dapat melakukan pemantauan terhadap kerumunan manusia untuk menghindari terjadinya bencana yang disebabkan oleh kerumunan manusia yang tidak terkendali
+# iSense
+
+iSense adalah sebuah proyek untuk mengembangkan perangkat yang dapat memantau kerumunan manusia untuk menghindari terjadinya bencana yang disebabkan oleh kerumunan manusia yang tidak terkendali.
+
+## Deskripsi
+
+Proyek ini bertujuan untuk menciptakan solusi yang dapat membantu mengatasi masalah kerumunan manusia yang dapat menyebabkan bencana. Dengan menggunakan teknologi pemantauan dan analisis data, iSense dapat memberikan informasi yang akurat tentang kerumunan manusia kepada pihak yang berwenang untuk mengambil tindakan yang tepat.
+
+## Video Demo
+
+Tonton video demo iSense di bawah ini:
+
+---
+
