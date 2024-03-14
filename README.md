@@ -10,5 +10,10 @@ Proyek ini bertujuan untuk menciptakan solusi yang dapat membantu mengatasi masa
 
 Tonton video demo iSense di bawah ini:
 
+
+
+https://github.com/IsmaDDamara/iSense/assets/93784246/90559781-80d2-448b-aceb-3c552ec97fd5
+
+
 ---
 
